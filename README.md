@@ -23,14 +23,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/kanha-programmer/All-leetcode/tree/master/0041-first-missing-positive) |
 | [1833-maximum-ice-cream-bars](https://github.com/kanha-programmer/All-leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanha-programmer/All-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/kanha-programmer/All-leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanha-programmer/All-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/kanha-programmer/All-leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanha-programmer/All-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
 |  |
 | ------- |
