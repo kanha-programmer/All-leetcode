@@ -46,8 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/kanha-programmer/All-leetcode/tree/master/0319-bulb-switcher) |
+| [0400-nth-digit](https://github.com/kanha-programmer/All-leetcode/tree/master/0400-nth-digit) |
 ## Brainteaser
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/kanha-programmer/All-leetcode/tree/master/0319-bulb-switcher) |
+## Binary Search
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/kanha-programmer/All-leetcode/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
