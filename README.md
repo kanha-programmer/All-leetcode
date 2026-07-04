@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kanha-programmer/All-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanha-programmer/All-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kanha-programmer/All-leetcode/tree/master/0041-first-missing-positive) |
 | [1189-maximum-number-of-balloons](https://github.com/kanha-programmer/All-leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kanha-programmer/All-leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/kanha-programmer/All-leetcode/tree/master/0041-first-missing-positive) |
 | [1833-maximum-ice-cream-bars](https://github.com/kanha-programmer/All-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kanha-programmer/All-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
