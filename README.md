@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kanha-programmer/All-leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanha-programmer/All-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kanha-programmer/All-leetcode/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/kanha-programmer/All-leetcode/tree/master/0075-sort-colors) |
 | [1833-maximum-ice-cream-bars](https://github.com/kanha-programmer/All-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kanha-programmer/All-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanha-programmer/All-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kanha-programmer/All-leetcode/tree/master/0075-sort-colors) |
 | [1833-maximum-ice-cream-bars](https://github.com/kanha-programmer/All-leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kanha-programmer/All-leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanha-programmer/All-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -102,4 +104,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kanha-programmer/All-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/kanha-programmer/All-leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
