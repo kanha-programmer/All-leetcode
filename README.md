@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/0045-jump-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/kanha-programmer/All-leetcode/tree/master/1301-number-of-paths-with-max-score) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/kanha-programmer/All-leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
