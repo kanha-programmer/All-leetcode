@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kanha-programmer/All-leetcode/tree/master/0041-first-missing-positive) |
 | [1189-maximum-number-of-balloons](https://github.com/kanha-programmer/All-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kanha-programmer/All-leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanha-programmer/All-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/kanha-programmer/All-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kanha-programmer/All-leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/kanha-programmer/All-leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/kanha-programmer/All-leetcode/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/kanha-programmer/All-leetcode/tree/master/0400-nth-digit) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kanha-programmer/All-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kanha-programmer/All-leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kanha-programmer/All-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
@@ -183,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
