@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kanha-programmer/All-leetcode/tree/master/0007-reverse-integer) |
 | [0319-bulb-switcher](https://github.com/kanha-programmer/All-leetcode/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/kanha-programmer/All-leetcode/tree/master/0400-nth-digit) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kanha-programmer/All-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
