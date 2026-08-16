@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kanha-programmer/All-leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kanha-programmer/All-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/kanha-programmer/All-leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3477-fruits-into-baskets-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanha-programmer/All-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanha-programmer/All-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0400-nth-digit](https://github.com/kanha-programmer/All-leetcode/tree/master/0400-nth-digit) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/kanha-programmer/All-leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3477-fruits-into-baskets-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/kanha-programmer/All-leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kanha-programmer/All-leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
 |  |
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
