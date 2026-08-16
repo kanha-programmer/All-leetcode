@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kanha-programmer/All-leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/kanha-programmer/All-leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kanha-programmer/All-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/kanha-programmer/All-leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanha-programmer/All-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1288-remove-covered-intervals](https://github.com/kanha-programmer/All-leetcode/tree/master/1288-remove-covered-intervals) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/0045-jump-game-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kanha-programmer/All-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1301-number-of-paths-with-max-score](https://github.com/kanha-programmer/All-leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
