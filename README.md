@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanha-programmer/All-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/kanha-programmer/All-leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kanha-programmer/All-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kanha-programmer/All-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kanha-programmer/All-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/kanha-programmer/All-leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/kanha-programmer/All-leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kanha-programmer/All-leetcode/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kanha-programmer/All-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kanha-programmer/All-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kanha-programmer/All-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanha-programmer/All-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kanha-programmer/All-leetcode/tree/master/0007-reverse-integer) |
 | [0319-bulb-switcher](https://github.com/kanha-programmer/All-leetcode/tree/master/0319-bulb-switcher) |
 | [0400-nth-digit](https://github.com/kanha-programmer/All-leetcode/tree/master/0400-nth-digit) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kanha-programmer/All-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kanha-programmer/All-leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/kanha-programmer/All-leetcode/tree/master/3536-maximum-product-of-two-digits) |
