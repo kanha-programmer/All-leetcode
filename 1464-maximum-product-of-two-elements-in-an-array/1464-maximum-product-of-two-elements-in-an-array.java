@@ -1,14 +1,15 @@
 class Solution {
     public int maxProduct(int[] nums) {
-     int sechigh=0,firhigh=0;
-     for(int i=0;i<nums.length;i++) {
-        if(nums[i]>firhigh){
-            sechigh=firhigh;
-            firhigh=nums[i];
-        }else if(nums[i]>sechigh){
-            sechigh=nums[i];
+        int fm=Integer.MIN_VALUE,sm=fm;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>=fm){
+                sm=fm;
+                fm=nums[i];
+            }
+            else if(nums[i]>sm){
+                sm=nums[i];
+            }
         }
-     } 
-     return (firhigh-1) *(sechigh-1);
+        return (fm-1)*(sm-1);
     }
 }
