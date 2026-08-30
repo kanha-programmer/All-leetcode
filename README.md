@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kanha-programmer/All-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/kanha-programmer/All-leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/kanha-programmer/All-leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/kanha-programmer/All-leetcode/tree/master/0389-find-the-difference) |
 | [1189-maximum-number-of-balloons](https://github.com/kanha-programmer/All-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/kanha-programmer/All-leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kanha-programmer/All-leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kanha-programmer/All-leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/kanha-programmer/All-leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kanha-programmer/All-leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/kanha-programmer/All-leetcode/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kanha-programmer/All-leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/kanha-programmer/All-leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kanha-programmer/All-leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kanha-programmer/All-leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kanha-programmer/All-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kanha-programmer/All-leetcode/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/kanha-programmer/All-leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kanha-programmer/All-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/kanha-programmer/All-leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/kanha-programmer/All-leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/kanha-programmer/All-leetcode/tree/master/0389-find-the-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/kanha-programmer/All-leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
